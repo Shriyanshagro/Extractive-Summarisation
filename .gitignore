@@ -1,0 +1,4 @@
+data/
+*.pyc
+cv*
+cv/epoch*
